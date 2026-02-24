@@ -40,8 +40,8 @@ I specialize in optimizing the complete data lifecycle through:
 ## 🔗 Let's Connect
 
 - **LinkedIn**: [linkedin.com/in/rishabh-kim](https://www.linkedin.com/in/rishabhkimothi/?trk=opento_sprofile_topcard)
-- **Portfolio**: [Your Portfolio Website]
-- **Email**: [your.email@example.com]
+- **Portfolio**: [porfolio](https://aquatic-vinyl-78a.notion.site/Rishabh-Kimothi-2d523b7a303080b5ac86db173e92793f)
+- **Email**: [email](kimothi@unlv.nevada.edu)
 
 ---
 
