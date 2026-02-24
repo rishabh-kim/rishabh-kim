@@ -41,7 +41,7 @@ I specialize in optimizing the complete data lifecycle through:
 
 - **LinkedIn**: [linkedin.com/in/rishabh-kim](https://www.linkedin.com/in/rishabhkimothi/?trk=opento_sprofile_topcard)
 - **Portfolio**: [porfolio](https://aquatic-vinyl-78a.notion.site/Rishabh-Kimothi-2d523b7a303080b5ac86db173e92793f)
-- **Email**: [email](kimothi@unlv.nevada.edu)
+- **Email**: [kimothi@unlv.nevada.edu]
 
 ---
 
