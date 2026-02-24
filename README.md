@@ -20,7 +20,6 @@ I specialize in optimizing the complete data lifecycle through:
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-527FFF?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
 
 ### AWS Services
 - **Compute**: Lambda, EC2
@@ -37,23 +36,6 @@ I specialize in optimizing the complete data lifecycle through:
 - Cloud Infrastructure Management
 - Data Quality Assurance
 - BI & Data Visualization
-
----
-
-## 🚀 Featured Projects
-
-Coming soon! Check back for updates on my latest data engineering projects and case studies.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rishabh-kim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh-kim&layout=compact&theme=tokyonight" />
-</div>
-
----
 
 ## 🔗 Let's Connect
 
