@@ -24,8 +24,7 @@ I specialize in optimizing the complete data lifecycle through:
 ### AWS Services
 - **Compute**: Lambda, EC2
 - **Storage**: S3, EBS
-- **Databases**: DynamoDB, RDS, Redshift
-- **Analytics**: Glue, Athena, QuickSight
+- **Databases**: DynamoDB
 - **AI/ML**: Bedrock
 
 ### Technical Skills
